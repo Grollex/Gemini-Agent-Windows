@@ -1,2 +1,25 @@
-# Gemini-Agent-Windows
-One-click Gemini CLI Agent for Windows
+# Gemini CLI Autonomous Agent for Windows
+
+Этот проект предоставляет удобный установщик и загрузчик для **Gemini CLI**.
+
+## 🚀 Как запустить
+
+1. Скачайте последний релиз из раздела [Releases](https://github.com/Grollex/Gemini-Agent-Windows/releases).
+2. Распакуйте ZIP-архив.
+3. Запустите `GeminiAgent.exe`.
+
+## ✨ Особенности
+
+- **Авто-установка**: Проверяет наличие Node.js и устанавливает Gemini CLI автоматически.
+- **Удобная авторизация**: Помогает войти через Google-аккаунт или использовать API Key.
+- **YOLO Mode**: Запускает агента в полностью автономном режиме.
+- **Портативность**: Вы можете перенести папку на другой компьютер, и она сама все настроит.
+
+## 🛠 Требования
+
+- Windows 10/11
+- Node.js (если нет, программа предложит скачать)
+- API Key (бесплатно на [Google AI Studio](https://aistudio.google.com/app/apikey))
+
+---
+*Создано с помощью Gemini CLI*
